@@ -18,11 +18,11 @@ NFT 项目数据库各子条目必备内容(若某一子项不存在则无需写
 
 1. 项目官网及缩略图
 2. 项目性质及简介( Art,Game.Fi,Music 等)
-3. 项目 Twitter
-4. 项目 Discord,Telegram 邀请链接
-5. 项目的白名单（如存在）获取途径
-6. 项目其余社交媒体链接(Facebook,Instgram,Reddit,Github,Medium 等)
-7. 项目所属公链
+3. 项目所属公链
+4. 项目 Twitter
+5. 项目 Discord,Telegram 邀请链接
+6. 项目的白名单（如存在）获取途径
+7. 项目其余社交媒体链接(Facebook,Instgram,Reddit,Github,Medium 等)
 8. 项目公,私募**时间,数量,价格**
 9. 项目发行方背景资料
 10. 项目总体评分(参考评分标准)
